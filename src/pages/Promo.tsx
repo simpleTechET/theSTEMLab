@@ -100,7 +100,7 @@ const Promo = () => {
         <div className="relative min-h-[85vh]">
           <img 
             src={esaFence} 
-            alt="Ethiopian STEM Academy Campus Entrance" 
+            alt="theSTEMLab Campus Entrance" 
             className="absolute inset-0 w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-stone-900/90 via-stone-900/70 to-stone-900/40" />
@@ -238,7 +238,7 @@ const Promo = () => {
               <div className="relative overflow-hidden">
                 <img 
                   src={esaCompound} 
-                  alt="Ethiopian STEM Academy main building" 
+                  alt="theSTEMLab main building" 
                   className="w-full h-80 object-cover group-hover:scale-105 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-stone-900/60 to-transparent" />
@@ -274,7 +274,7 @@ const Promo = () => {
               WHY FAMILIES CHOOSE US
             </p>
             <h2 className="font-playfair text-3xl md:text-4xl font-medium leading-tight text-stone-900">
-              What Distinguishes Ethiopian STEM Academy
+              What Distinguishes theSTEMLab
             </h2>
           </div>
 
@@ -346,7 +346,7 @@ const Promo = () => {
             </p>
 
             <p className="text-amber-400 font-medium text-xl">
-              Ethiopian STEM Academy is that haven.
+             theSTEMLab is that haven.
             </p>
           </div>
         </div>
@@ -413,7 +413,7 @@ const Promo = () => {
             <div className="flex items-center gap-4">
               <img src={esaLogo} alt="ESA" className="h-10 w-auto" />
               <div>
-                <p className="font-medium text-stone-900">Ethiopian STEM Academy</p>
+                <p className="font-medium text-stone-900">theSTEMLab</p>
                 <p className="text-stone-500 text-sm flex items-center gap-1">
                   <MapPin className="w-3 h-3" /> Addis Ababa, Ethiopia
                 </p>
@@ -426,7 +426,7 @@ const Promo = () => {
           </div>
           <div className="mt-8 pt-6 border-t border-stone-200 text-center">
             <p className="text-stone-400 text-sm">
-              © 2026 Ethiopian STEM Academy. All rights reserved.
+              © 2026 theSTEMLab. All rights reserved.
             </p>
             <p className="text-stone-400 text-xs mt-2">
               የኢትዮጵያ ስቴም አካዳሚ — Excellence through depth

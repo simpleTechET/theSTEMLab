@@ -429,7 +429,7 @@ const Promo = () => {
               © 2026 theSTEMLab. All rights reserved.
             </p>
             <p className="text-stone-400 text-xs mt-2">
-              የኢትዮጵያ ስቴም አካዳሚ — Excellence through depth
+              ስቴም ላብ — Excellence through depth
             </p>
           </div>
         </div>
